@@ -1,2 +1,10 @@
 # d3.radialTree
-A radial tree plugin for d3 (v4)
+
+
+
+## Installing
+
+If you use NPM, `npm install d3-radialTree`. Otherwise, download the [latest release](https://github.com/sebastian-meier/d3.radialTree/releases/latest).
+
+## API Reference
+
